@@ -15,3 +15,10 @@ To create a Telegram Bot, simply install:
 `pip install aiogram`
 
 Use `bot_father` in Telegram to get your own Telegram token.
+
+---
+## Run
+
+To run the script, simply run `python myBuddy.py` in your command prompt.
+
+Note that this is only avaliable in the local telegram. 
